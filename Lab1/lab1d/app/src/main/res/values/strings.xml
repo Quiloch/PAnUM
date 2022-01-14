@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="hint">Napisz coś</string>
+    <string name="send">Wyślij</string>
+</resources>
