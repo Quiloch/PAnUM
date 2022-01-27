@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cafe-terra</string>
+    <string name="logo">Logo Cafe-terra</string>
+    <string name="drink_photo">Drink photo</string>
+    <string name="snack_photo">Snack photo</string>
+
+
+    <string-array name="options">
+        <item>Napoje</item>
+        <item>Przekąski</item>
+        <item>Kafeterie</item>
+    </string-array>
+
+</resources>
